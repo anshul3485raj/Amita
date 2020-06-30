@@ -1,0 +1,2 @@
+('happy =', 7, 'angry=', 14, 'sad=', 0, 'clam=', 0, 'neutral=', 2492, 'fear=', 0, 'disgusted=', 0, 'scared=', 7, 'surprised=', 0)
+('happy =', 0, 'angry=', 2, 'sad=', 0, 'clam=', 0, 'neutral=', 0, 'fear=', 0, 'disgusted=', 0, 'scared=', 0, 'surprised=', 0)
