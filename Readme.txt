@@ -1,6 +1,5 @@
-hello start gui.py 
+ 
+start gui.py it will start everything in background check for terminal  
 pls install requirement.txt(pip install -r requirement.txt) all module before running
 to send email u need to turn on the lowsecure app
-or use the one shown in video
-and pls wait while your_face window doesnot show
-
+or use the id one shown in video 
